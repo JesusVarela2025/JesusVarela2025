@@ -1,27 +1,27 @@
-<h2> Console.log("Hey there!")</h2>
-<h2>Console.WriteLine("I'm Jesus David Varela👾");</h2>
+<h2> Console.log("¡Hola!")</h2>
+<h2>Console.WriteLine("Soy Jesús David Varela👾");</h2>
 <img align="right" alt="GIF" src="https://user-images.githubusercontent.com/119714274/213307663-f1bde1f6-22a0-4ad5-9aa2-afe80c1493e8.jpg" width="450"/>
 
-<h3> 👨🏻‍💻 About Me </h3>
+<h3> 👨🏻‍💻 Sobre mí </h3>
 
-- 🔭 &nbsp; I’m currently learning Unity, Unreal Engine 4 and figma
-- 🤔 &nbsp; Exploring new technologies and developing software solutions and quick hacks.
-- 🎓 &nbsp; Studying Software Engineer, computer programming and Mathematics.
-- 💼 &nbsp; Back-end developer and Front-end developer.
-- 🌱 &nbsp; Enthusiast in cyber Security and Artificial Intelligence.
-- ✍️ &nbsp; Watching Anime and studying 3D Modeling, Blender, After Effects.
-- ☕ &nbsp; I belive, the Practice makes the senior. 
+- 🔭 &nbsp; Actualmente aprendiendo Unity, Unreal Engine 4 y Figma.
+- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software y hacks rápidos.
+- 🎓 &nbsp; Estudiando Ingeniería de Software, programación y matemáticas.
+- 💼 &nbsp; Desarrollador Backend y Frontend.
+- 🌱 &nbsp; Entusiasta de la ciberseguridad y la inteligencia artificial.
+- ✍️ &nbsp; Aficionado al anime y al estudio de modelado 3D, Blender, After Effects.
+- ☕ &nbsp; Creo que la práctica hace al experto.
 
-<h3>🛠 Tech Stack</h3>
+<h3>🛠 Tecnologías</h3>
 
-- 💻 &nbsp;  C# | .NET | WPF | WF | API REST FULL  
-- 🌐 &nbsp; HTML5 | CSS3 | BOOTSTRAP | JAVASCRIPT | REACT | VITE 
-- 🛢 &nbsp; MySql | SQL SERVER 
-- 🔧 &nbsp; Visual Studio 2022 |  Visual Studio code | Github | Git 
+- 💻 &nbsp; C# | .NET | WPF | WF | API REST FULL  
+- 🌐 &nbsp; HTML5 | CSS3 | Bootstrap | JavaScript | React | Vite 
+- 🛢 &nbsp; MySQL | SQL Server 
+- 🔧 &nbsp; Visual Studio 2022 | Visual Studio Code | GitHub | Git 
 - 🖥 &nbsp; Illustrator | Photoshop | After Effects
 - 🧪&nbsp; NUnit | Vitest | TDD
 
-<h3> 🤝🏻 Connect with Me </h3>
+<h3> 🤝🏻 Conecta conmigo </h3>
 
 <p align="center">
 <!--Linkedin-->
