@@ -4,12 +4,12 @@
 
 <h3> 👨🏻‍💻 Sobre mí </h3>
 
-- 🔭 &nbsp; Actualmente aprendiendo Unity, Unreal Engine 4 y Figma.
+- 🔭 &nbsp; Actualmente aprendiendo Big data, Llms y Optimización.
 - 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software y hacks rápidos.
 - 🎓 &nbsp; Estudiando Ingeniería de Software, programación y matemáticas.
 - 💼 &nbsp; Desarrollador Backend y Frontend.
-- 🌱 &nbsp; Entusiasta de la ciberseguridad y la inteligencia artificial.
-- ✍️ &nbsp; Aficionado al anime y al estudio de modelado 3D, Blender, After Effects.
+- 🌱 &nbsp; Entusiasta de la ciberseguridad, servidores, análisis de datos y la inteligencia artificial.
+- ✍️ &nbsp; Aficionado a la lectura y al estudio de modelado 3D, Blender, desarrollar tonterías en mi tiempo libre.
 - ☕ &nbsp; Creo que la práctica hace al experto.
 
 <h3>🛠 Tecnologías</h3>
