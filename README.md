@@ -4,7 +4,7 @@
 <h3> 👨🏻‍💻 Sobre mí </h3>
 
 - 🔭 &nbsp; Actualmente aprendiendo Big data, Llms y Optimización.
-- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software y hacks rápidos.
+- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software.
 - 🎓 &nbsp; Estudiando Ingeniería de Software, programación y matemáticas.
 - 💼 &nbsp; Desarrollador Backend y Frontend.
 - 🌱 &nbsp; Entusiasta de la ciberseguridad, servidores, análisis de datos y la inteligencia artificial.
