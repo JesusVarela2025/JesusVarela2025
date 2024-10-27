@@ -29,7 +29,7 @@
 <!--Gmail-->
 &nbsp; <a href="mailto:jesusvarela288@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213312176-f96b37fd-e623-42ff-9f70-3f6d9467bd61.png" width="50" /></a>
 <!--Website-->
-&nbsp; <a href="jesusvarelastudio.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213312086-53531233-024a-4ae7-b1aa-cde34327e421.png" width="50" /></a>
+&nbsp; <a href="https://www.jesusvarelastudio.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213312086-53531233-024a-4ae7-b1aa-cde34327e421.png" width="50" /></a>
 <!--RESUME-->
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213315150-aa8da831-c26a-491f-9f0e-2aeb6a34dce8.png" width="50" /></a>
 </p>
