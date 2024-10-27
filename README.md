@@ -1,51 +1,35 @@
-# ¡Hola! Soy Jesús David Varela 👾
-print("¡Hola!") 
-print("Soy Jesús David Varela 👾")
+<h2> Console.log("¡Hola!")</h2>
+<h2>Console.WriteLine("Soy Jesús David Varela👾");</h2>
+<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/119714274/213307663-f1bde1f6-22a0-4ad5-9aa2-afe80c1493e8.jpg" width="450"/>
 
-# Sobre mí
-sobre_mi = {
-    "En aprendizaje": ["Unity", "Unreal Engine 4", "Figma"],
-    "Explorando": "Nuevas tecnologías, desarrollando soluciones de software y hacks rápidos",
-    "Formación": ["Ingeniería de Software", "Programación", "Matemáticas"],
-    "Rol": ["Desarrollador Backend", "Desarrollador Frontend"],
-    "Intereses": ["Ciberseguridad", "Inteligencia Artificial", "Anime", "Modelado 3D", "Blender", "After Effects"],
-    "Mantra": "La práctica hace al experto"
-}
+<h3> 👨🏻‍💻 Sobre mí </h3>
 
-# Tecnologías
-tecnologias = {
-    "Lenguajes de Programación": ["JavaScript", "Java", "Python"],
-    "Frontend": ["HTML5", "CSS3", "Tailwind CSS"],
-    "Backend": ["Node.js", "SQL", "RESTful API"],
-    "Idiomas": {"Inglés": "B1", "Español": "Nativo"},
-    "Conocimientos": [
-        "Test-Driven Development", "Clean Code", "Patrones de Diseño", "Redes", "Git", 
-        "Office 365", "Google Workspace", "Soporte Técnico", "Mantenimiento de ordenadores",
-        "Redacción de Informes", "Gestión de Archivos", "Atención al Cliente"
-    ],
-    "Herramientas": [
-        "Git", "GitHub", "Visual Studio Code", "Visual Studio 2022", "Canva", 
-        "UML", "NuGet", "Figma", "MySQL Workbench", "XAMPP", "Behance", "CodePen"
-    ]
-}
+- 🔭 &nbsp; Actualmente aprendiendo Unity, Unreal Engine 4 y Figma.
+- 🤔 &nbsp; Explorando nuevas tecnologías y desarrollando soluciones de software y hacks rápidos.
+- 🎓 &nbsp; Estudiando Ingeniería de Software, programación y matemáticas.
+- 💼 &nbsp; Desarrollador Backend y Frontend.
+- 🌱 &nbsp; Entusiasta de la ciberseguridad y la inteligencia artificial.
+- ✍️ &nbsp; Aficionado al anime y al estudio de modelado 3D, Blender, After Effects.
+- ☕ &nbsp; Creo que la práctica hace al experto.
 
-# Conectar conmigo
-contacto = {
-    "LinkedIn": "https://www.linkedin.com/in/jesus-david-varela-melendez-34866a259/",
-    "Correo": "mailto:jesusvarela288@gmail.com",
-    "Website": "Tu sitio web aquí",
-    "Resumen": "Link a tu CV aquí"
-}
+<h3>🛠 Tecnologías</h3>
 
-# Muestra la información
-print("\nSobre mí:")
-for clave, valor in sobre_mi.items():
-    print(f"{clave}: {valor}")
+- 💻 &nbsp; **Lenguajes de programación:** JavaScript, Java, Python.
+- 🌐 &nbsp; **Frontend:** HTML5, CSS3, Tailwind CSS.
+- 🛢 &nbsp; **Backend:** Node.js, SQL, RESTful API.
+- 🌍 &nbsp; **Idiomas:** Inglés B1, Español nativo.
+- 📚 &nbsp; **Conocimiento:** Test-Driven Development, Clean Code, patrones de diseño, redes, Git, Office 365, Google Workspace, soporte técnico, mantenimiento de ordenadores, redacción de informes, gestión de archivos y atención al cliente.
+- 🔧 &nbsp; **Herramientas:** Git, GitHub, Visual Studio Code, Visual Studio 2022, Canva, UML, NuGet, Figma, MySQL Workbench, XAMPP, Behance, CodePen.
 
-print("\nTecnologías:")
-for categoria, items in tecnologias.items():
-    print(f"{categoria}: {', '.join(items) if isinstance(items, list) else items}")
+<h3> 🤝🏻 Conecta conmigo </h3>
 
-print("\nConecta conmigo:")
-for plataforma, link in contacto.items():
-    print(f"{plataforma}: {link}")
+<p align="center">
+<!--Linkedin-->
+&nbsp; <a href="https://www.linkedin.com/in/jesus-david-varela-melendez-34866a259/" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213312967-e9db81de-b043-4037-8ab7-a6bc08f57963.png" width="50" /></a>
+<!--Gmail-->
+&nbsp; <a href="mailto:jesusvarela288@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213312176-f96b37fd-e623-42ff-9f70-3f6d9467bd61.png" width="50" /></a>
+<!--Website-->
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213312086-53531233-024a-4ae7-b1aa-cde34327e421.png" width="50" /></a>
+<!--RESUME-->
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213315150-aa8da831-c26a-491f-9f0e-2aeb6a34dce8.png" width="50" /></a>
+</p>
