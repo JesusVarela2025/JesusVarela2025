@@ -31,5 +31,5 @@
 <!--Website-->
 &nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213312086-53531233-024a-4ae7-b1aa-cde34327e421.png"  width="50" /></a>
 <!--RESUME-->
-&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="![image](https://github.com/user-attachments/assets/059464ce-8c09-4edd-9584-b56c4d6fb4f3)"  width="50" /></a>
+&nbsp; <a href="" target="_blank" rel="noopener noreferrer"><img src="https://user-images.githubusercontent.com/119714274/213315150-aa8da831-c26a-491f-9f0e-2aeb6a34dce8.png"  width="50" /></a>
 </p>
