@@ -14,7 +14,7 @@
 
 <h3>🛠 Tecnologías</h3>
 
-- 💻 &nbsp; **Lenguajes de programación:** JavaScript, Java, Python.
+- 💻 &nbsp; **Lenguajes de programación:** JavaScript, Python.
 - 🌐 &nbsp; **Frontend:** HTML5, CSS3, Tailwind CSS.
 - 🛢 &nbsp; **Backend:** Node.js, SQL, RESTful API.
 - 🌍 &nbsp; **Idiomas:** Inglés B1, Español nativo.
