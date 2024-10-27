@@ -8,8 +8,8 @@
 - 🎓 &nbsp; Estudiando Ingeniería de Software, programación y matemáticas.
 - 💼 &nbsp; Desarrollador Backend y Frontend.
 - 🌱 &nbsp; Entusiasta de la ciberseguridad, servidores, análisis de datos y la inteligencia artificial.
-- ✍️ &nbsp; Aficionado a la lectura y al estudio de modelado 3D, Blender, desarrollar tonterías en mi tiempo libre.
-- ☕ &nbsp; Creo que la práctica hace al experto.
+- ✍️ &nbsp; Aficionado a la lectura y al estudio de modelado 3D, Blender.
+- ☕ &nbsp; Me gusta desarrollar tonterías en mi tiempo libre.
 
 <h3>🛠 Tecnologías</h3>
 
