@@ -9,7 +9,7 @@
 - 💼 &nbsp; Desarrollador Backend y Frontend.
 - 🌱 &nbsp; Entusiasta de la ciberseguridad, servidores, análisis de datos y la inteligencia artificial.
 - ✍️ &nbsp; Aficionado a la lectura y al estudio de modelado 3D, Blender.
-- ☕ &nbsp; Me gusta desarrollar tonterías en mi tiempo libre.
+- ☕ &nbsp; Me gusta el café y desarrollar tonterías en mi tiempo libre.
 
 <h3>🛠 Tecnologías</h3>
 
