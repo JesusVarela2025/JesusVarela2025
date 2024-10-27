@@ -1,6 +1,6 @@
 <h2> print("¡Hola!") </h2>
 <h2>print("Soy Jesús David Varela 👾")</h2>
-<img align="right" alt="GIF" src="https://user-images.githubusercontent.com/119714274/213307663-f1bde1f6-22a0-4ad5-9aa2-afe80c1493e8.jpg" width="450"/>
+<img align="right" alt="GIF" src="https://jesusvarelastudio.netlify.app/assets/img_github/programador.jpg" width="450"/>
 
 <h3> 👨🏻‍💻 Sobre mí </h3>
 
