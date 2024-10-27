@@ -18,7 +18,7 @@
 - 🛢 &nbsp; **Backend:** Node.js, SQL, RESTful API.
 - 🌍 &nbsp; **Idiomas:** Inglés B1, Español nativo.
 - 📚 &nbsp; **Conocimiento:** Test-Driven Development, Clean Code, patrones de diseño, redes, Git, Office 365, Google Workspace, soporte técnico, mantenimiento de ordenadores, redacción de informes, gestión de archivos y atención al cliente.
-- 🔧 &nbsp; **Herramientas:** Git, GitHub, Visual Studio Code, Visual Studio 2022, Canva, UML, NuGet, Figma, MySQL Workbench, XAMPP, Behance, Postman, MySql Workbench.
+- 🔧 &nbsp; **Herramientas:** Git, GitHub, Visual Studio Code, Visual Studio 2022, Canva, UML, NuGet, Figma, MySQL Workbench, XAMPP, Behance, Postman, MySql Workbench, Docker.
 
 <h3> 🤝🏻 Conecta conmigo </h3>
 
